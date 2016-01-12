@@ -3,7 +3,11 @@ RxSmartSharedPreferences是[SmartSharedPreferences](https://github.com/YoKeyword
 
 RxSmartSharedPreferences可以让你创建实体类一样创建一个SharedPreferences对象，使用链式方法操作数据
 
-使用非常简单，基于编译时注解，性能高效，库仅包含几个类。
+# 特性
+1、大概是使用最简单SharedPreferences的操作库了，只需一个@Spf注解，基于编译时注解
+
+2、链式操作
+
 #使用方法
 #### 1、引用
 project的gradle.build里添加：
