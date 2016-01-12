@@ -4,7 +4,7 @@ RxSmartSharedPreferences是[SmartSharedPreferences](https://github.com/YoKeyword
 RxSmartSharedPreferences可以让你创建实体类一样创建一个SharedPreferences对象，使用链式方法操作数据
 
 # 特性
-1、大概是使用最简单SharedPreferences的操作库了，只需一个@Spf注解，基于编译时注解
+1、可能是使用最简单SharedPreferences的操作库，只需一个@Spf注解，基于编译时注解
 
 2、链式操作
 
